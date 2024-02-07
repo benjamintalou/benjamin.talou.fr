@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Open&display=swap');
+
+a:hover {
+  animation: scaling 0.5s forwards 1;
+}
+
+@keyframes scaling {
+  from {
+  }
+  to {
+    color: #fff;
+  }
+}
